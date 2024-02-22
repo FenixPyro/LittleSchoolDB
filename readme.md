@@ -67,6 +67,7 @@ All columns doesn't have NULL constraint for administrative issues, so that it c
 ### Relationships
 
 The below entity relationship diagram describes the relationships among the entities in the database.
+
 ![ER Diagram](diagram.png)
 
 Details:
